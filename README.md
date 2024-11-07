@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying as **Software Engineering**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Android/Flutter**
 
 - 📫 How to reach me **baolam2k3.contact@gmail.com**  or  **baolamtebayo10102003@gmail.com**
 
